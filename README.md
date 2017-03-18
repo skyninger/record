@@ -1,2 +1,19 @@
-# record-js
-收集js插件
+# 收集js插件
+1、jQuery Easing：jQuery 动画效果扩展 [官网](http://gsgd.co.uk/sandbox/jquery/easing/ "http://gsgd.co.uk/sandbox/jquery/easing/")   
+2、jQuery Migrate：jQuery 应用迁移辅助插件 [github](https://github.com/jquery/jquery-migrate "https://github.com/jquery/jquery-migrate")    
+3、Modernizr：专为HTML5和CSS3开发的功能检测类库 [官网](https://modernizr.com/ "https://modernizr.com/") [github](https://github.com/Modernizr/Modernizr "https://github.com/Modernizr/Modernizr")   
+4、jQuery Flexslider：响应式 jQuery 内容滚动插件 [官网](http://flexslider.woothemes.com/ "http://flexslider.woothemes.com/") [github](https://github.com/woocommerce/FlexSlider "https://github.com/woocommerce/FlexSlider")   
+5、WOW：在页面滚动时展现动感的元素动画效果 [官网](http://mynameismatthieu.com/WOW/ "http://mynameismatthieu.com/WOW/") [github](https://github.com/matthieua/WOW "https://github.com/matthieua/WOW")   
+6、Sticky：让某个元素一直浮动在页面某个位置 [官网](http://stickyjs.com/ "http://stickyjs.com/") [github](https://github.com/garand/sticky "https://github.com/garand/sticky")   
+7、Bootstrap Hover Dropdown：Bootstrap鼠标悬停自动下拉 [官网](https://cameronspear.com/demos/bootstrap-hover-dropdown/ "https://cameronspear.com/demos/bootstrap-hover-dropdown/") [github](https://github.com/CWSpear/bootstrap-hover-dropdown "https://github.com/CWSpear/bootstrap-hover-dropdown")   
+8、jQuery Stellar：基于jQuery的视差滚动插件 [官网](http://markdalgleish.com/projects/stellar.js/ "http://markdalgleish.com/projects/stellar.js/") [github](https://github.com/markdalgleish/stellar.js/ "https://github.com/markdalgleish/stellar.js/")   
+9、Owl Carousel：强大实用的jQuery幻灯片插件 [官网](https://owlcarousel2.github.io/OwlCarousel2/ "https://owlcarousel2.github.io/OwlCarousel2/") [github](https://github.com/OwlCarousel2/OwlCarousel2 "https://github.com/OwlCarousel2/OwlCarousel2")   
+10、YTPlayer：基于jQuery的YouTube视频播放插件 [官网](https://pupunzi.com/ "https://pupunzi.com/") [github](https://github.com/pupunzi/jquery.mb.YTPlayer "https://github.com/pupunzi/jquery.mb.YTPlayer")   
+11、jQuery Waypoints：jQuery滚动监听插件 [官网](http://imakewebthings.com/waypoints/ "http://imakewebthings.com/waypoints/") [github](https://github.com/imakewebthings/waypoints "https://github.com/imakewebthings/waypoints")   
+12、easyPieChart：轻量级的图表插件 [官网](https://rendro.github.io/easy-pie-chart/ "https://rendro.github.io/easy-pie-chart/") [github](https://github.com/rendro/easy-pie-chart "https://github.com/rendro/easy-pie-chart")   
+13、Isotope：jQuery智能布局插件 [官网](http://isotope.metafizzy.co/ "http://isotope.metafizzy.co/") [github](https://github.com/metafizzy/isotope "https://github.com/metafizzy/isotope")   
+14、jQuery imagesLoaded：jQuery图片加载插件 [官网](http://imagesloaded.desandro.com/ "http://imagesloaded.desandro.com/") [github](https://github.com/desandro/imagesloaded "https://github.com/desandro/imagesloaded")   
+15、jQuery Countdown：精确到毫秒的jquery倒计时插件 [官网](http://hilios.github.io/jQuery.countdown/ "http://hilios.github.io/jQuery.countdown/") [github](https://github.com/hilios/jQuery.countdown "https://github.com/hilios/jQuery.countdown")   
+16、jQuery Counterup：jQuery数字动态累加jQuery [官网](http://bfintal.github.io/Counter-Up/demo/demo.html "http://bfintal.github.io/Counter-Up/demo/demo.html") [github](https://github.com/bfintal/Counter-Up "https://github.com/bfintal/Counter-Up")   
+17、jqBootstrapValidation：用于Bootstrap表单的JQuery验证框架 [官网](https://reactiveraven.github.io/jqBootstrapValidation/ "https://reactiveraven.github.io/jqBootstrapValidation/") [github](https://github.com/ReactiveRaven/jqBootstrapValidation "https://github.com/ReactiveRaven/jqBootstrapValidation")   
+18、jQuery Revolution Slider：强大的视差响应幻灯插件 [官网](https://revolution.themepunch.com/jquery/ "https://revolution.themepunch.com/jquery/")   
