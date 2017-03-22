@@ -17,7 +17,7 @@
 15、Neurojs：用于在浏览器中进行深度学习 JavaScript 框架，可以通过强化学习进行全栈神经网络。[github](https://github.com/janhuenermann/neurojs "https://github.com/janhuenermann/neurojs")    
 
 ## 2017-3-18
-1、jQuery Easing：jQuery 动画效果扩展 [官网](http://gsgd.co.uk/sandbox/jquery/easing/ "http://gsgd.co.uk/sandbox/jquery/easing/")   
+1、jQuery Easing：jQuery 动画效果扩展 [官网](http://gsgd.co.uk/sandbox/jquery/easing/ "http://gsgd.co.uk/sandbox/jquery/easing/")   
 2、jQuery Migrate：jQuery 应用迁移辅助插件 [github](https://github.com/jquery/jquery-migrate "https://github.com/jquery/jquery-migrate")    
 3、Modernizr：专为HTML5和CSS3开发的功能检测类库 [官网](https://modernizr.com/ "https://modernizr.com/") [github](https://github.com/Modernizr/Modernizr "https://github.com/Modernizr/Modernizr")   
 4、jQuery Flexslider：响应式 jQuery 内容滚动插件 [官网](http://flexslider.woothemes.com/ "http://flexslider.woothemes.com/") [github](https://github.com/woocommerce/FlexSlider "https://github.com/woocommerce/FlexSlider")   
